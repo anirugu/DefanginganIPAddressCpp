@@ -17,7 +17,7 @@ public:
 			else
 				result += c;
 		}
-		return address;
+		return result;
 	}
 };
 
